@@ -21,6 +21,8 @@ SELECT * FROM 테이블 명;
 - INSERT
 - UPDATE
 - DELETE
+- ALTER
+  
 
 ### 파이썬 보다 직관적이다.
 
