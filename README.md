@@ -6,7 +6,7 @@
 
 #### ➕ [PlanetScale](https://planetscale.com/)
 #### ➕ [Supabase](https://supabase.com/)
-### 🔗[TIL]()
+### 🔗[TIL](https://github.com/aaingyunii/Bootcamp_TIL/issues/14)
 
 
 # SQL 기초
