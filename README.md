@@ -34,9 +34,20 @@ SELECT * FROM 테이블 명;
 - ORDER BY
  ```
 SELECT *
-FROM TA
+FROM TABLE명
 ```
 - GROUP BY
 - COUNT
 - SUM
+  
+## JOIN
+> 다중 테이블 연결하기 (JOIN)
+- INNER JOIN
+    - USING
+- LEFT JOIN
+- RIGHT JOIN
+
+
+## Python 연동
+
   
