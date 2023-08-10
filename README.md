@@ -110,6 +110,7 @@ RIGHT JOIN table2 ON 조건식;
 - **`MySQL`**
 ![image](https://github.com/aaingyunii/Bootcamp_SQL/assets/31847834/b1514b02-b7b0-4df1-a8ab-1edbebaa3831)
 
+---
 
 
 ### Python 연동
