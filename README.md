@@ -13,10 +13,7 @@
 
 # SQL 기초
 
-### Planetscale, SQL 환경
-![image](https://github.com/aaingyunii/230626/assets/31847834/b8b98e1e-cd39-4521-aba9-0a969fe2f8c7)
-
-## SQL CRUD
+### SQL CRUD
 - CREATE
  ```
  CREATE TABLE 테이블명 (
@@ -52,7 +49,8 @@ DROP COLUNM 컬럼명; # 열 삭제
 
 MODIFY 컬럼명 NEW_데이터타입; # 데이터 타입 변경
 ```
-### 파이썬 보다 직관적이다.
+
+**파이썬 보다 직관적이다.**
 
 ## 정렬과 그룹화
 - ORDER BY
@@ -103,7 +101,18 @@ RIGHT JOIN table2 ON 조건식;
                   USING (KEY);
 ```
 
-## Python 연동
+
+## Planetscale, MySQL 환경 사용
+
+- **`Planetscale`**
+ ![image](https://github.com/aaingyunii/230626/assets/31847834/b8b98e1e-cd39-4521-aba9-0a969fe2f8c7)
+
+- **`MySQL`**
+![image](https://github.com/aaingyunii/Bootcamp_SQL/assets/31847834/b1514b02-b7b0-4df1-a8ab-1edbebaa3831)
+
+
+
+### Python 연동
 ```python
 !pip install pymysql -q
 import pymysql
