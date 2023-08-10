@@ -1,4 +1,6 @@
-# 230626_SQL기초_Python연동 🐍💪
+# Bootcamp_SQL
+
+### 230626_SQL기초_Python연동 🐍💪
 ### 수업 내용 : 
 
 #### ✔ 이전 수업 내용 복습
@@ -6,7 +8,7 @@
 
 #### ➕ [PlanetScale](https://planetscale.com/)
 #### ➕ [Supabase](https://supabase.com/)
-### 🔗[TIL](https://github.com/aaingyunii/Bootcamp_TIL/issues/14)
+#### 🔗[TIL](https://github.com/aaingyunii/Bootcamp_TIL/issues/14)
 
 
 # SQL 기초
